@@ -1,3 +1,5 @@
+Projeto de um jogo clássico de Jokempo feito em Java, usando Servido e Cliente.
+
 Nomes e RA's dos integrantes:
 
 Gabriel de Lima Santiago
